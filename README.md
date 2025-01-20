@@ -24,13 +24,13 @@ Se desplegará el menú de opciones en la consola:
 
 ------ BIENVENID@ A LITERALURA ------
 
-1 - Buscar libro por título
-2 - Mostrar libros registrados
-3 - Mostrar autores registrados
-4 - Mostrar autores vivos en cierto año
-5 - Mostrar libros por idioma
+1. - Buscar libro por título
+2. - Mostrar libros registrados
+3. - Mostrar autores registrados
+4. - Mostrar autores vivos en cierto año
+5. - Mostrar libros por idioma
                     
-0 - Salir
+0. - Salir
 
 debes buscar el título del libro, de encontrarlo quedará registrado en la base de datos.
 Después puedes iterar sobre tu lista de libros guardada con las opciones 2-5 buscando los 
